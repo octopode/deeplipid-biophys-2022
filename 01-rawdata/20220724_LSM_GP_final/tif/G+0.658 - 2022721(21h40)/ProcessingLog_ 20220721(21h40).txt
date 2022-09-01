@@ -1,0 +1,46 @@
+----------------------------------
+	 GP images analysis macro
+	 version DW 2019.11.20
+----------------------------------
+Original Reference:
+ Quantitative Imaging of Membrane Lipid Order in Cells and Organisms
+ Owen DM, Rentero C, Magenau A, Abu-Siniyeh A, and Gaus K.
+ Nature Protocols 2011 7(1) p24-35.
+
+ 
+----------------------------------
+ImageJ version 2.3.0/1.53q
+Thu, 21 Jul 2022 - 21:40
+----------------------------------
+Processed 6 files with extension: .tif
+
+ 
+------ Input Images ------
+Ordered channel: 1
+Disordered channel: 2
+Immunofluoresence channel: Not present
+
+ 
+------ Output GP Images ------
+GP images were calculated using input image bit depth: Yes
+GP images' lookup table: Fire
+G factor: 0.658 was applied to Histogram data (post GP calc).
+
+ 
+------ Output GP-masked GP Images ------
+GP mask threshold method: Normal
+GP-mask threshold value (lower limit, 32 bit): -1.0000E30
+
+ 
+------ Output HSB GP Images ------
+Intensity from: Sum of ordered + disordered
+HSB images' lookup table: Fire
+
+ 
+Main results folder is: 
+ C:\Users\Daniel\Desktop\ctenosGP\figure\ctenos_final_figure\tif\G+0.658b - 2022721(21h40)\
+
+ 
+----------------------------------
+Execution time: 47.34 seconds.
+-------------- EoF ---------------

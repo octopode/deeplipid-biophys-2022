@@ -1,0 +1,11 @@
+	Phosphatidylglycerol Profile;  PG																				
+																					
+	Data are expressed as normalized intensities and constitute relative abundances per mg tissue (relative to exactly measured internal standards).  																				
+	The data can be used for direct comparison of individual metabolites between different samples as well as of different metabolites within the same sample.																				
+	ND = not detected																				
+																					
+		Normalized Intensities  (UNIT = Intensity / mg tissue)																			
+Sample ID		PG 30:3_9.19	PG 30:3_11.66	PG 31:6_5.91	PG 32:3_6.04	PG 34:1_18.51 | 16:0_18:1	PG 34:2_15.22	PG 35:2_4.61	PG 36:2_18.73	PG 36:4_20.03	PG 37:1_18.89	PG 38:5_4.20	PG 38:10_4.20	PG 40:6_15.67	PG 40:11_1.12	PG 41:4_27.37	PG 41:9_20.01	PG 42:0_18.58	PG 42:6_18.89	PG 43:4_16.67	PG 44:1_29.30
+JWL200A		ND	0.11	0.14	0.04	ND	ND	0.05	0.05	0.09	0.05	0.09	0.50	0.10	ND	0.05	0.08	0.06	0.03	ND	0.23
+JWL200B		0.27	ND	ND	ND	2.64	0.02	0.04	0.04	0.08	0.05	ND	0.40	ND	0.03	ND	0.07	0.05	0.02	0.03	0.15
+JWL200C		0.09	0.04	0.24	0.12	0.12	0.06	0.12	0.05	0.04	0.03	0.12	ND	0.10	0.06	0.08	ND	0.07	ND	0.03	0.48

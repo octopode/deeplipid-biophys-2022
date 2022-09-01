@@ -1,0 +1,11 @@
+	Phosphatidylinositol Profile;  PI 													
+														
+	Data are expressed as normalized intensities and constitute relative abundances per mg tissue (relative to exactly measured internal standards).  													
+	The data can be used for direct comparison of individual metabolites between different samples as well as of different metabolites within the same sample.													
+	ND = not detected													
+														
+		Normalized Intensities  (UNIT = Intensity / mg tissue)												
+Sample ID		PI 30:6_5.61	PI 38:5_15.91	PI 39:1_26.37	PI 40:0_6.99	PI 40:4_12.33	PI 41:2_6.98	PI 41:11_20.01	PI 42:10_6.45	PI 43:6_12.28	PI 43:8_10.35	PI 43:8_14.16	PI 43:8_14.52	PI 44:8_12.30
+JWL200A		0.13	0.14	ND	0.16	0.10	0.75	0.07	ND	0.27	0.88	0.18	0.26	0.98
+JWL200B		ND	0.24	0.07	0.18	0.09	0.83	0.07	0.05	0.25	0.87	0.21	0.27	0.87
+JWL200C		0.32	0.19	0.24	0.40	ND	2.60	ND	0.09	0.27	0.86	0.11	ND	1.09

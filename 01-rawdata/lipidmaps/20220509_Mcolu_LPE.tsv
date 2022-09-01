@@ -1,0 +1,11 @@
+	Lyso-Phosphatidylethanolamine Profile;  LPE																		
+																			
+	Data are expressed as normalized intensities and constitute relative abundances per mg tissue (relative to exactly measured internal standards).  																		
+	The data can be used for direct comparison of individual metabolites between different samples as well as of different metabolites within the same sample.																		
+	ND = not detected																		
+																			
+		Normalized Intensities  (UNIT = Intensity / mg tissue)																	
+Sample ID		LPE 15:2_8.06	LPE 15:4_5.91	LPE 16:0_6.74	LPE 18:0_8.00	LPE 19:3_10.66	LPE 19:4_3.52	LPE 20:2_5.32	LPE 21:2_6.98	LPE 22:1_9.49	LPE 22:3_6.95	LPE 22:3_7.25	LPE 23:5_6.55	LPE 23:8_6.30	LPE 24:3_9.63	LPE 24:7_9.17	LPE 24:8_6.98	LPE 24:8_7.29	LPE 26:0_11.91
+JWL200A		ND	0.05	0.08	0.07	ND	0.04	ND	0.07	0.25	0.06	ND	0.08	0.12	0.03	0.04	0.08	0.06	0.05
+JWL200B		0.03	0.05	0.07	0.46	0.04	0.04	0.10	0.08	0.10	ND	0.02	0.08	0.10	0.03	ND	0.07	ND	0.05
+JWL200C		0.03	ND	0.07	0.07	0.01	0.03	0.10	0.06	ND	0.05	0.04	ND	0.10	0.02	0.04	0.06	0.06	0.03

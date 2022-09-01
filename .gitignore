@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.Rproj.user
+
+# local junk
+*scratch*
+*formatting*
+*bak*
+*00-text*
+*05-slides*
+*06-presub*
+*tusk*
+# too-large files
+*.key
+*.mp4
+# my convention for Chimera sessions
+*session.py

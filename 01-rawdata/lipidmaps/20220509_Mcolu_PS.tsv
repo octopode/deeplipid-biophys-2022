@@ -1,0 +1,11 @@
+	Phosphatidylserine  Profile;  PS 																	
+																		
+	Data are expressed as normalized intensities and constitute relative abundances per mg tissue (relative to exactly measured internal standards).  																	
+	The data can be used for direct comparison of individual metabolites between different samples as well as of different metabolites within the same sample.																	
+	ND = not detected																	
+																		
+		Normalized Intensities  (UNIT = Intensity / mg tissue)																
+Sample ID		PS 30:2_11.25	PS 31:3_6.40	PS 32:3_5.37	PS 34:4_17.60	PS 35:4_19.78	PS 36:3_23.48	PS 37:4_24.08	PS 39:0_25.07	PS 39:1_22.39	PS 39:3_17.89	PS 39:7_6.04	PS 39:7_13.64	PS 40:2_16.66	PS 40:4_27.26	PS 42:7_18.46	PS 43:11_16.35	PS 43:12_29.91
+JWL200A		ND	0.94	ND	0.15	0.22	0.22	ND	ND	0.24	ND	0.16	0.14	0.12	ND	0.21	0.35	0.10
+JWL200B		0.07	0.83	0.08	0.07	0.18	0.09	0.10	0.15	0.07	0.12	0.08	0.09	0.08	0.07	0.10	0.32	0.06
+JWL200C		0.16	ND	0.14	0.13	0.15	0.15	0.08	0.39	0.11	0.09	ND	0.11	0.06	0.09	ND	0.20	0.15

@@ -1,0 +1,11 @@
+	Lyso-Phosphatidylcholine Profile;  LPC											
+												
+	Data are expressed as normalized intensities and constitute relative abundances per mg tissue (relative to exactly measured internal standards).  											
+	The data can be used for direct comparison of individual metabolites between different samples as well as of different metabolites within the same sample.											
+	ND = not detected											
+												
+		Normalized Intensities  (UNIT = Intensity / mg tissue)										
+Sample ID		LPC 14:0_5.53	LPC 15:4_6.50	LPC 16:0_6.54	LPC 16:1_6.66	LPC 16:3_5.73	LPC 17:0_7.79	LPC 18:0_7.79	LPC 20:0_7.87	LPC 20:5_6.50	LPC 20:5_6.87	LPC 24:8_9.44
+JWL200A		0.51	0.55	41.01	ND	0.13	0.11	0.32	0.15	ND	0.24	0.11
+JWL200B		0.57	0.47	45.57	0.47	ND	0.12	0.35	0.13	0.05	0.24	0.07
+JWL200C		0.48	0.40	39.16	0.35	0.09	0.09	0.29	0.11	0.04	0.11	ND

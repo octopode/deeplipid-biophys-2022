@@ -1,0 +1,11 @@
+	Phosphatidylethanolamine Profile;  PE																																
+																																	
+	Data are expressed as normalized intensities and constitute relative abundances per mg tissue (relative to exactly measured internal standards).  																																
+	The data can be used for direct comparison of individual metabolites between different samples as well as of different metabolites within the same sample.																																
+	ND = not detected																																
+																																	
+		Normalized Intensities  (UNIT = Intensity / mg tissue)																															
+Sample ID		PE 29:3_10.03	PE 30:4_5.33	PE 32:0_21.48	PE 32:1_8.38	PE 32:1_18.12	PE 32:2_14.94	PE 33:1_20.62	PE 33:3_18.48	PE 34:2_18.62	PE 34:5_11.25	PE 35:3_22.92	PE 36:0_19.51	PE 36:1_11.22	PE 36:2_7.20	PE 36:3_16.35	PE 36:5_5.79	PE 38:0_16.67	PE 38:3_17.92	PE 38:4_23.26 | 18:0_20:4	PE 39:3_27.32	PE 40:1_25.76	PE 40:4_17.94	PE 40:10_21.92	PE 40:10_29.01	PE 41:10_5.58	PE 42:4_26.60	PE 42:10_29.62	PE 43:1_27.69	PE 43:5_16.67	PE 44:7_27.37	PE 44:9_9.17	PE 44:12_23.46
+JWL200A		0.1	ND	ND	0.0	0.1	0.1	0.1	0.0	0.1	ND	0.1	0.0	ND	0.0	0.1	ND	0.1	0.0	ND	ND	ND	ND	0.2	ND	0.1	0.0	ND	ND	0.0	ND	ND	0.1
+JWL200B		ND	0.0	0.0	0.0	0.1	0.1	0.1	0.0	0.1	0.0	0.0	0.1	0.0	0.0	ND	0.0	0.0	ND	1.2	0.0	0.0	0.1	ND	0.0	0.1	0.0	0.0	0.0	0.0	0.1	0.0	0.0
+JWL200C		0.1	0.1	0.0	0.1	0.1	0.1	0.1	0.1	0.2	0.1	ND	ND	0.1	0.1	0.0	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.0	0.3	ND	0.0	0.2	0.0	0.3	0.1	0.1

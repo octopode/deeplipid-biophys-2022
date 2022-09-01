@@ -1,0 +1,11 @@
+	Cholesterol Ester Profile (CE)											
+												
+	Data are expressed as normalized intensities and constitute relative abundances per mg tissue (relative to exactly measured internal standards).  											
+	The data can be used for direct comparison of individual metabolites between different samples as well as of different metabolites within the same sample.											
+	ND = not detected											
+												
+		Normalized Intensities  (UNIT = Intensity / mg tissue)										
+Sample ID		CE 14:1_30.01	CE 15:0_28.64	CE 16:0_32.68	CE 18:1_32.59	CE 18:2_31.87	CE 18:3_23.08	CE 18:3_24.78	CE 21:0_30.12	CE 21:1_28.12	CE 22:0_28.48	CE 23:1_29.85
+JWL200A		2.30	ND	3.79	0.60	0.81	11.33	8.66	1.21	1.05	ND	16.99
+JWL200B		1.81	0.77	3.19	0.53	0.71	5.99	9.44	1.59	0.80	1.43	18.61
+JWL200C		1.35	0.57	3.55	0.69	0.90	13.61	12.00	0.60	ND	4.37	12.50

@@ -1,0 +1,11 @@
+	Phosphatidylcholine  Profile;  PC																		
+																			
+	Data are expressed as normalized intensities and constitute relative abundances per mg tissue (relative to exactly measured internal standards).  																		
+	The data can be used for direct comparison of individual metabolites between different samples as well as of different metabolites within the same sample.																		
+	ND = not detected																		
+																			
+		Normalized Intensities  (UNIT = Intensity / mg tissue)																	
+Sample ID		PC 30:0_16.21 | 14:0_16:0	PC 31:0_18.23	PC 31:5_17.58	PC 32:0_20.37 | 16:0/16:0	PC 32:5_19.78	PC 33:4_23.51	PC 34:0_24.48 | 16:0_18:0	PC 34:1_21.14 | 16:0_18:1	PC 34:2_18.12 | 16:0_18:2	PC 34:5_24.08	PC 36:1_25.07 | 18:0_18:1	PC 36:2_22.37	PC 36:4_17.89	PC 36:8_13.64	PC 37:3_16.66	PC 37:5_27.26	PC 40:12_16.35	PC 42:5_17.73
+JWL200A		0.1255	0.1521	ND	14.4936	ND	ND	0.8552	1.3817	0.2677	ND	0.2752	ND	ND	ND	ND	ND	ND	ND
+JWL200B		0.1517	0.1714	0.0543	16.0355	0.1337	0.0648	0.1836	1.1406	0.3480	0.0701	0.1071	0.0510	0.0895	0.0666	0.0555	0.0503	0.2313	0.0771
+JWL200C		0.1698	0.3018	0.1360	14.4053	0.1575	0.1556	1.1390	1.4319	0.4858	0.0819	0.4216	0.1133	0.1018	0.1212	0.0680	0.1019	0.2192	0.1398
