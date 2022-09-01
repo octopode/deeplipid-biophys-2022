@@ -1,9 +1,10 @@
 library(tidyverse)
+library(here)
 library(ggplot2)
 library(ggpubr)
 library(RColorBrewer)
 
-file_od600 = "/Users/jwinnikoff/Documents/MBARI/deeplipid-biophys-2022/03-mainfigs/biocurvature/20220422_OD600-master.tsv"
+file_od600 = here("01-rawdata", "20220422_OD600-master.tsv")
 
 col_width = 150
 jit_width = 50
