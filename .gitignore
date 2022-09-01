@@ -130,6 +130,7 @@ dmypy.json
 .Rproj.user
 
 # local junk
+*snake*
 *scratch*
 *formatting*
 *bak*
@@ -140,5 +141,6 @@ dmypy.json
 # too-large files
 *.key
 *.mp4
+*.m4v
 # my convention for Chimera sessions
 *session.py
