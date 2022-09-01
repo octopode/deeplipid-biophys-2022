@@ -3,11 +3,13 @@
 
 ### What's here
 
-This repo contains the raw data and analysis scripts used to generate the figures and statistical claims in the paper.
+This repo contains raw data and analysis scripts used to generate the figures and statistical claims in the above paper.
 
 ### How to use it
 
-Start by opening the `.Rproj` file in the top-level directory. This will set the working directory in R so that `here()` calls in the scripts open the correct data files and helper scripts. From within RStudio, navigate to `02-scripts` and open the `.R` files for the analyses/figures you want to run or modify
+Start by opening the `.Rproj` file in the top-level directory. This will set the working directory in R so that `here()` calls in the scripts open the correct data files and helper scripts. From within RStudio, navigate to `02-scripts` and open the `.R` file for the analysis or figure you want to run or modify...and away you go!
+
+> Note: as of 20220831, Fig. 3 has its own `Rproj` file; this will be consolidated ASAP.
 
 ### Dependencies
 
@@ -21,3 +23,7 @@ All other analyses in the paper were carried out using the R core in [RStudio](h
 ### Support
 
 If you are unable to reproduce an analysis or otherwise have questions, please raise an issue or email jwinnikoff@gmail.com.
+
+### License
+
+Until further notice, this repo is available under the [Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-ND) 4.0 license](https://creativecommons.org/licenses/by-nd/4.0/) for purposes of manuscript review. The contents cannot be shared in adapted form and reproduction of the unaltered contents requires attribution.
