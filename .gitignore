@@ -129,9 +129,14 @@ dmypy.json
 .pyre/
 .Rproj.user
 
+# R
+*.RData
+*.Rhistory
+
 # local junk
 *snake*
 *scratch*
+*old*
 *formatting*
 *bak*
 *00-text*
